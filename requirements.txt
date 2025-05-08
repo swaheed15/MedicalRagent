@@ -3,6 +3,7 @@ langchain-community
 langchain-groq
 langchain_agent
 langchain_core
+langsmith
 langchain-openai
 langchain-text-splitters
 langchain-chroma
