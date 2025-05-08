@@ -2,6 +2,10 @@ langchain
 langchain-community
 langchain-groq
 langchain_agent
+langchain_core
+langchain-openai
+langchain-text-splitters
+langchain-chroma
 streamlit
 scholarly
 requests
@@ -12,3 +16,12 @@ validators
 pypdf
 pymupdf
 unstructured
+arxiv
+wikipedia
+bs4
+youtube_transcript_api
+pytube
+SQLAlchemy
+mysql-connector-python
+numexpr
+
